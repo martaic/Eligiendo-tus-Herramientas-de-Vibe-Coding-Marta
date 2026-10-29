@@ -76,5 +76,3 @@
 
 ---
 
-
-Puedes encontrar otras plantillas y recursos como este en la [página de GitHub de la escuela](https://github.com/4geeksacademy/).
